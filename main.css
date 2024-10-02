@@ -1,0 +1,224 @@
+.header-img{
+    display: inline-block;
+  }
+  .header-img img{
+    width: 96px;
+  }
+  .navbar-list{
+    display: inline-block;
+  }
+  
+  .navbar-list li{
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .navbar-list a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #05364d;
+  }
+  .active{
+    color: #efb6df !important;
+  }
+  .container{
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+  /* baner-area */
+  .banner-area__section{
+    margin: 80px 0;
+  }
+  .banner-info{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .banner-info h3{
+    font-size: 16px;
+    font-weight: 700px;
+    margin-bottom: 20px;
+  }
+  .banner-info h1{
+    margin-top: 20px;
+    font-size: 70px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  .banner-info h5{
+    font-weight: 500px;
+    font-size: 24px;
+  }
+  .main-buton{
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    padding: 10px 25px;
+    background-color: #BF2EF0;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .banner-img{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .banner-img img{
+    width: 80%;
+    margin-left: px;
+  }
+  
+  /* statistic section */
+  .statistic-card{
+    background-color: #f3f3f3;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 15px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 150px;
+  }
+  
+  .statistic-card h3{
+  margin: 0px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: 600px;
+  color: #00bcd4;
+  }
+  
+  /* about section */
+  
+  .about-section{
+    margin-top: 50px;
+  }
+  
+  .about-section__img img{
+  width: 450px;
+  display: inline;
+  vertical-align: middle;
+  }
+  
+  .about-section__img{
+  display: inline-block;
+  }
+  
+  .about-section__info{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+    width: 600px;
+  }
+  
+  .about-section__header{
+    font-weight: 500px;
+    color: #888;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    line-height: 52px;
+  }
+  
+  .about-section__text{
+    font-size: 16px;
+    color: #888;
+    font-weight: 400px;
+  }
+  
+  /* servise section stili */
+  
+  .services-section{
+    margin-top: 100px;
+  }
+  
+  .services-section__card{
+    padding: 60px 30px;
+    text-align: center;
+    background-color: #f8faff;
+    display: inline-block;
+    width: 25%;
+    margin-right: 12px;
+  }
+  
+  .services-section__card:hover{
+    background-color: #5f30ff;
+  }
+  
+  .services-sectio:hover h4{
+  color: white;
+  }
+  
+  .services-sectio:hover p{
+  color: white;
+  }
+  
+  .services-sectio:hover a{
+    color: white;
+  
+  }
+  .servises-section__card img{
+  margin-bottom: 50px;
+  }
+  
+  .servises-section__card h4{
+  color: #05364d;
+  font-size: 24px;
+  font-weight: 500px;
+  margin-bottom: 20px;
+  }
+  
+  .servises-section__card p{
+    letter-spacing: 1px;
+    color: #888;
+    font-weight: 400px;
+    line-height: 400px;
+    margin-bottom: 16px;
+  }
+  
+  .services-section__card a{
+    font-size: 18px;
+    font-weight: 500px;
+    color: #05364d;
+  text-decoration: none;
+    margin-top: 40px;
+  }
+  /* header area */
+  
+  .section-titles{
+    font-size: 42px;
+    font-weight: 700px;
+    margin-bottom: 30px;
+    line-height: 52px;
+    text-transform: capitalize;
+    margin-top: 0px;
+  }
+  
+  .section-header__roket{
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  
+  
+  .testi-right{
+    display: inline-block;
+  }
+  
+  .testi-right h4{
+    font-size: 20px;
+    margin-bottom: 4px;
+  }
+  
+  .testi-right p{
+    width: 445px;
+    
+  }
+  .jo-rasm__img{
+    display: inline-block;
+  }
+  
+  .jo-rasm__img img{
+    width: 450px;
+    display: inline;
+    vertical-align: middle;
+    margin: 0px 70px;
+    }
+  
